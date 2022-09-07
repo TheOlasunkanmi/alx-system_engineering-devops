@@ -6,3 +6,4 @@ The 3-paths script counts the number of directory in PATH
 The 4-global_variables script will list all environment variables
 The 5-local_variables will list all local variables and environment variables, and functions
 The 6-create_local_variable will create a new local variable with name, BEST, and value of School
+The 7-create_global_variable script will create a new global variable
