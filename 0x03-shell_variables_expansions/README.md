@@ -16,3 +16,4 @@ The 13-print_float script will print a number with two decimal points followed b
 The 100-decimal_to_hexadecimal script will convert a number from base 10 to base 16.
 The 101-rot13 script will encode and decode text using the rot 13 encryption assuming ASCII.
 The 102-odd script will print every other number from the input, starting with the first line.
+The 103-water_and_stir script will add two numbers stored in the environment variables WATER and STIR both of which are in different bases.
