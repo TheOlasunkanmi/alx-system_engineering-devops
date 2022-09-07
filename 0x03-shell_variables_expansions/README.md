@@ -8,3 +8,4 @@ The 5-local_variables will list all local variables and environment variables, a
 The 6-create_local_variable will create a new local variable with name, BEST, and value of School
 The 7-create_global_variable script will create a new global variable
 The 8-true_knowledge script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEGE, followed by a new line
+The 9-divide_and_rule script will print the result of POWER divided by DIVIDE, followed by a new line
